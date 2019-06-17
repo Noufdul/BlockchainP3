@@ -1,0 +1,24 @@
+{
+  "name": "nouf-p3",
+  "version": "1.0.0",
+  "description": "In this exercise you will practice a creation of a web service that respond with the block hash.",
+  "main": "Block.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/udacity/nd1309-express-js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/udacity/nd1309-express-js/issues"
+  },
+  "homepage": "https://github.com/udacity/nd1309-express-js#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "crypto-js": "^3.1.9-1",
+    "express": "^4.16.4"
+  }
+}
